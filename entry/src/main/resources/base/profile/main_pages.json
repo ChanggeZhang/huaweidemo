@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Changge",
+    "pages/Login",
+    "pages/PersonalCenter",
+    "pages/RecentUse",
+    "pages/TaskList",
+    "pages/WebPage",
+    "pages/Setting"
+  ]
+}

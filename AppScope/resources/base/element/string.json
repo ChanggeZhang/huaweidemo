@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "demo"
+    },
+    {
+      "name": "INTERNET_APPLY",
+      "value": "与服务器数据交互需要网络支持"
+    }
+  ]
+}
